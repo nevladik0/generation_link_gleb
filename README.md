@@ -1,1 +1,3 @@
-# generation_link_gleb
+pip install aiogram
+
+config.py > BOT_TOKEN = "BotFather"
